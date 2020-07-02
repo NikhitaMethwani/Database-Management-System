@@ -6,7 +6,7 @@ The aim of the project was to implement various Database terminologies such as D
 Relational Database is not an ideal solution for Ecommerce Database , but to understand the concepts of Database this topic was chosen.
 
 Use case:
-Customer Details Table : Basic Customer details
+Customer Details Table : Basic Customer details   
 Vendor details Table : Store the vendors who sell their products on the webside
 Products Table : Stores the product details + the stock of product
 Product Category Table : Stores the category of each product
